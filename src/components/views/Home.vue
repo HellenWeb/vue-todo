@@ -1,7 +1,7 @@
 <template>
     <div class="main">
         <div class="intro">
-          <div class="intro_inner text-center" style="margin-top: 15%">
+          <div class="intro__inner text-center" style="margin-top: 15%">
             <div class="d-flex justify-content-center">
               <img style="width: 6%; margin-right: 4px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dotcom-monitor.com%2Fblog%2Fwp-content%2Fuploads%2Fsites%2F3%2F2020%2F05%2FVue-logo-1.png&f=1&nofb=1">
               <h1 class="text-xl mb-3" style="margin-top: 6px;">Todo App</h1>
