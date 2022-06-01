@@ -1,24 +1,10 @@
-# vue-todo
-
-## Project setup
+# Todo App | Vue.js
+My first todo app was made on Vue.js
+## Launching app
 ```
-npm install
+vue serve
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Description
+My first todo list app made with vue.js and bootstrap css framework
+## Copyright
+© Copyright by. Hellen
